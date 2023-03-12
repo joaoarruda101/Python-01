@@ -1,4 +1,3 @@
-
 class MinhaClasse:
     def soma(self,a ,b):
         resultado = a + b
